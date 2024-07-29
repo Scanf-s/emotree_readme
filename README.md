@@ -2,6 +2,8 @@
 
 <h3 align="center">Emotion Tree Talk 프로젝트 백엔드 레포지토리🎄 </h3>
 
+![image](https://github.com/user-attachments/assets/131ba91f-6ec4-47b8-b105-d93fd0133cb1)
+
 ## 기능 흐름
 
 ### 1. 로그인 ~ 숲 생성 과정
