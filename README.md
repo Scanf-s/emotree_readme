@@ -63,7 +63,7 @@
 
 ### 1. Cloud Architecture
 
-![image](https://github.com/user-attachments/assets/8b80bcee-4841-4c89-a44f-713e8b607d74)
+![image](https://github.com/user-attachments/assets/d7152a57-4ccf-4b85-99ba-32a5436541a0)
 
 ### 2. Project Architecture
 
