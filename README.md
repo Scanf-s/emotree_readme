@@ -1,6 +1,6 @@
-## Emotion Tree Talk 프로젝트 백엔드 레포지토리🎄
+## Emotion Tree Talk 프로젝트 백엔드 Readme 전용 레포지토리🎄
 
-![image](https://github.com/user-attachments/assets/131ba91f-6ec4-47b8-b105-d93fd0133cb1)
+![image](https://github.com/user-attachments/assets/00650986-3e36-402c-aa90-21bdc285bf68)
 
 ## 사용 기술
 
@@ -18,6 +18,24 @@
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS ELB](https://img.shields.io/badge/AWS%20ELB-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## Entity Relationship Diagram
+
+![image](https://github.com/user-attachments/assets/5a5d766c-57b9-4427-8886-7192608c186c)
+
+---
+
+## Architecture
+
+### 1. Cloud Architecture
+
+![image](https://github.com/user-attachments/assets/8b80bcee-4841-4c89-a44f-713e8b607d74)
+
+### 2. Project Architecture
+
+![image](https://github.com/user-attachments/assets/5adf7e75-2873-4d60-90e9-f7dd547cd7f5)
+
+---
 
 ## 기능 흐름
 
