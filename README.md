@@ -36,6 +36,9 @@
   </tr>
 </table>
 
+## 데모 영상
+
+https://github.com/user-attachments/assets/e57bf6a3-1357-43bc-a980-861a1b1afc68
 
 ## 사용 기술
 
