@@ -22,8 +22,8 @@
   </tr>
   <tr>
     <td><a href="https://github.com/yoyobar">@yoyobar</a></td>
-    <td><a href="https://github.com/devpma">@devpma</a></td>
     <td><a href="https://github.com/ungpyolee">@ungpyolee</a></td>
+    <td><a href="https://github.com/devpma">@devpma</a></td>
     <td><a href="https://github.com/Scanf-s">@Scanf-s</a></td>
     <td><a href="https://github.com/ChoiSeongRak">@ChoiSeongRak</a></td>
   </tr>
